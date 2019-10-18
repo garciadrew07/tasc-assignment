@@ -1,8 +1,4 @@
-# TASC
 
-```bash
- git clone git@github.com:gatortim50/TASC.git
-```
 Running this project should only take two steps:
     1. npm install
     2. ng serve
